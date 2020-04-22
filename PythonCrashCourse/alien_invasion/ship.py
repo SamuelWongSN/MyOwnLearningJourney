@@ -8,16 +8,18 @@
 '''
 
 import pygame
+from pygame.sprite import Sprite
 
-class Ship():
+class Ship(Sprite):
     '''管理飞船的大部分行为'''
 
     def __init__(self,screen,settings):
         '''飞船初始化'''
+        super(Ship,self).__init__()
         self.screen = screen
 
         #加载飞机图像并获得外接矩阵
-        self.image = pygame.image.load('images/ship.bmp')
+        self.image = pygame.image.load('ship.bmp')
         self.image = pygame.transform.scale(self.image,(50,100))
         self.rect  = self.image.get_rect()
         self.screen_rect = screen.get_rect()
@@ -33,7 +35,13 @@ class Ship():
         self.rect.bottom  = self.screen_rect.bottom
         #飞船 存储成小数
         self.center = float(self.rect.centerx)
+        self.bottom = float(self.rect.bottom)
         self.y = float(self.rect.y)
+
+    def center_ship(self):
+        #飞船底部居中刷新
+        self.center = self.screen_rect.centerx
+        self.y = self.screen_rect.bottom - self.rect.height
 
     def blitme(self):
         '''在指定地点绘制飞船'''
