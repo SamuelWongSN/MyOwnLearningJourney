@@ -50,8 +50,8 @@
       <recent name="D:\Github\MyOwnLearningJourney\python100daymaster" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.practice06">
-    <configuration name="practice02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.practice7.5">
+    <configuration name="practice7.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python100daymaster" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05.logic of build program" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.str and datastru" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.logic of build program/practice02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.str and datastru/practice7.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice03 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice7.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python100daymaster" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05.logic of build program" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.str and datastru" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.logic of build program/practice03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.str and datastru/practice7.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice7.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python100daymaster" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05.logic of build program" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.str and datastru" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.logic of build program/practice04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.str and datastru/practice7.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice7.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python100daymaster" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05.logic of build program" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.str and datastru" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.logic of build program/practice05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.str and datastru/practice7.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice7.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python100daymaster" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05.logic of build program" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07.str and datastru" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.logic of build program/practice06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.str and datastru/practice7.5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.practice06" />
-        <item itemvalue="Python.practice05" />
-        <item itemvalue="Python.practice04" />
-        <item itemvalue="Python.practice03 (1)" />
-        <item itemvalue="Python.practice02 (1)" />
+        <item itemvalue="Python.practice7.5" />
+        <item itemvalue="Python.practice7.4" />
+        <item itemvalue="Python.practice7.3" />
+        <item itemvalue="Python.practice7.2" />
+        <item itemvalue="Python.practice7.1" />
       </list>
     </recent_temporary>
   </component>
@@ -190,22 +190,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="936" height="294" key="GridCell.Tab.0.bottom" timestamp="1601038739081">
+    <state width="936" height="291" key="GridCell.Tab.0.bottom" timestamp="1601126836143">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601038739081" />
-    <state width="936" height="294" key="GridCell.Tab.0.center" timestamp="1601038739081">
+    <state width="936" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601126836143" />
+    <state width="936" height="291" key="GridCell.Tab.0.center" timestamp="1601126836143">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601038739081" />
-    <state width="936" height="294" key="GridCell.Tab.0.left" timestamp="1601038739081">
+    <state width="936" height="291" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601126836143" />
+    <state width="936" height="291" key="GridCell.Tab.0.left" timestamp="1601126836143">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601038739081" />
-    <state width="936" height="294" key="GridCell.Tab.0.right" timestamp="1601038739081">
+    <state width="936" height="291" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601126836143" />
+    <state width="936" height="291" key="GridCell.Tab.0.right" timestamp="1601126836143">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601038739081" />
+    <state width="936" height="291" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601126836143" />
     <state x="922" y="184" key="SettingsEditor" timestamp="1600951680748">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
